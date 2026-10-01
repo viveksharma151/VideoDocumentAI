@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables
+.env
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Junk
+Thumbs.db
+Desktop.ini
+.DS_Store
